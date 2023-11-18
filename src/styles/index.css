@@ -10,3 +10,89 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#topeDelPoste{
+    background-color: black;
+    width: 20px;
+    height: 100px;
+    margin:auto;
+}
+
+#cajaDelPoste{
+    background-color: black;
+    width: 100px;
+    height: 300px;
+    margin:auto;
+    border-radius: 25px;
+}
+
+.red{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glowing-red{
+    background-color: red;
+    box-shadow: 5px 5px 5px 5px rgb(230, 229, 173),
+    -5px -5px 5px 5px rgb(230, 229, 173);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glowing-yellow{
+    background-color: yellow;
+    box-shadow: 5px 5px 5px 5px rgb(230, 229, 173),
+    -5px -5px 5px 5px rgb(230, 229, 173);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green{
+    background-color:green;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glowing-green{
+    background-color:green;
+    box-shadow: 5px 5px 5px 5px rgb(230, 229, 173),
+    -5px -5px 5px 5px rgb(230, 229, 173);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
